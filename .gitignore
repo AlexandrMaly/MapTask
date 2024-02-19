@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/mapsTask.iml
+/.idea/modules.xml
+/.idea/misc.xml
+/out/production/mapsTask/Main.class
+/out/production/mapsTask/utils/IdGenerate.class
+/out/production/mapsTask/Outputer/OutputProduct.class
+/out/production/mapsTask/Goods/Product.class
+/out/production/mapsTask/Data/DataProducts.class
+/out/production/mapsTask/Application/App.class
